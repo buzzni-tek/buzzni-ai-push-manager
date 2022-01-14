@@ -1,7 +1,7 @@
 import slack as sc
 
 
-TOKEN = "xoxb-405348602032-2976878263024-CvpFJUE9Kzzii1ZAQrbcuHms"
+TOKEN = "xoxb-405348602032-2976878263024-TWr8WVdIO3Y68B6Uo37CsAq7"
 _SLACK_CHAANEL = "푸쉬매니저"
 
 def clean_channel(channel):
